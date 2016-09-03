@@ -1,4 +1,4 @@
 # hello-world
 hello to github
 lachendeKatze is the laughing cat
-this is german
+this is german - sort of
